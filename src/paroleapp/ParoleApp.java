@@ -17,6 +17,8 @@ public class ParoleApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("Sono la versioe set");
         // TODO code application logic here
     }
     
